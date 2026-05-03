@@ -1,21 +1,5 @@
-"""
-===========================================================
-SISTEMA SOFTWARE FJ
-Gestión de Clientes, Servicios y Reservas
-===========================================================
 
-✔ Programación Orientada a Objetos
-✔ Abstracción
-✔ Herencia
-✔ Polimorfismo
-✔ Encapsulación
-✔ Manejo avanzado de excepciones
-✔ Registro de logs en archivo
-✔ Simulación de operaciones válidas e inválidas
-
-NOTA: No se usa base de datos, solo listas y archivos.
-"""
-#correccion de codigo segundo commit
+#correccion de codigo tercer commit final
 # =========================
 # IMPORTACIONES NECESARIAS
 # =========================
