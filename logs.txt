@@ -54,3 +54,11 @@ Reserva procesada con estado: Confirmada
 Error reserva 5: Cliente no válido
 Reserva procesada con estado: Confirmada
 Reserva procesada con estado: Confirmada
+Error cliente 2: El nombre no puede estar vacío
+Reserva procesada con estado: Confirmada
+Error reserva 2: Duración inválida
+Error reserva 3: Duración inválida
+Reserva procesada con estado: Confirmada
+Error reserva 5: Cliente no válido
+Reserva procesada con estado: Confirmada
+Reserva procesada con estado: Confirmada
